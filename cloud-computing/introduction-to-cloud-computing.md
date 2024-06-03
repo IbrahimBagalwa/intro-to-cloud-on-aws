@@ -35,3 +35,12 @@ Brief: **Cloud Computing** is the on demand delivery of IT resources over the in
 - **Infrastructure as a Service (IaaS)** : Provides virtualized infrastructure resources like servers and storage. (You manage from the virtual server upwards)
 - **Platform as a Service (PaaS)** : Provides a platform for developing and managing applications without managing the underlying infrastructure. ( You simply upload your code/data to create your application)
 - **Software as a Service** : Provides fully functional software applications over the internet, managed by the provider. (You simply consume the service - little responsibility + little control)
+
+#### 2. Cloud Computing Deployment Models
+
+| Name          | Description                                                                                                                                                                                     | Examples                                                                |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Public Cloud  | Cloud services are provided over a network that is open for public use.                                                                                                                         | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) |
+| Private Cloud | Cloud services are dedicated to a single organization and are not shared with other organizations. (An enterprise deploys their own infrastructure and applications into their own data center) | OpenStack, VMware, Microsoft, RedHat                                    |
+| Hybrid Cloud  | A combination of on-premises, private cloud, and public cloud services are consumed                                                                                                             |                                                                         |
+| Multi Cloud   | Usage of two or more public clouds at a time, and possibly multiple private clouds                                                                                                              |                                                                         |
