@@ -26,3 +26,12 @@ Brief: **Cloud Computing** is the on demand delivery of IT resources over the in
 - Command line, with the command line you have to install something on your computer , like command line interface from your cloud service provider and then you can run commands from anywhere on the internet and launch cloud services.
 
 - Code (SDK): in this case a developer is going to write some code in what's called an integrated development environment (IDE). You can write some code and then use that to launch services in the cloud.
+
+### Cloud Service Models and cloud deployment models
+
+#### 1. Cloud Service Models
+
+- **Private Cloud** : Dedicated cloud for one organization, providing high control and security.(You manage everything greater responsibility + greater control)
+- **Infrastructure as a Service (IaaS)** : Provides virtualized infrastructure resources like servers and storage. (You manage from the virtual server upwards)
+- **Platform as a Service (PaaS)** : Provides a platform for developing and managing applications without managing the underlying infrastructure. ( You simply upload your code/data to create your application)
+- **Software as a Service** : Provides fully functional software applications over the internet, managed by the provider. (You simply consume the service - little responsibility + little control)
